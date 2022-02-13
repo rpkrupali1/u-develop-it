@@ -20,7 +20,7 @@
   "homepage": "https://github.com/rpkrupali1/u-develop-it#readme",
   "dependencies": {
     "express": "^4.17.2",
-    "sql": "^0.78.0"
+    "mysql": "^2.18.1"
   },
   "devDependencies": {
     "jest": "^27.5.1"
